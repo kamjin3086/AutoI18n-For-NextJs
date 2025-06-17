@@ -19,7 +19,7 @@
 
 ## 安装
 
-请从 [下载](https://autoi18n.dev/download) 页面，根据不同的系统下载最新版本安装和使用。
+请从 [下载](https://github.com/kamjin3086/AutoI18n-For-NextJs-Desktop/releases) 页面，根据不同的系统下载最新版本安装和使用。
 
 ## 使用方法
 
