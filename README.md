@@ -25,7 +25,7 @@ Download the latest version from the [Download](https://github.com/kamjin3086/Au
 
 ## Usage
 
-The tool interface is simple and intuitive. Configure it as needed, then submit and preview the effects. You can view the [docs](https://autoi18n.dev/docs)
+The tool interface is simple and intuitive. Configure it as needed, then submit and preview the effects. You can view the [docs](https://auto-i18n-websites.vercel.app/docs)
 
 ## Limitations
 
@@ -33,6 +33,6 @@ Currently, AutoI18n mainly provides internationalization processing for project 
 
 ## Contributions
 
-We welcome any feedback and suggestions on this project. Currently, the project is developed solely by the author. If interested, you can contact me at: support@autoi18n.dev
+We welcome any feedback and suggestions on this project. Currently, the project is developed solely by the author. If interested, you can contact me at: kamjindev@gmail.com
 
 
