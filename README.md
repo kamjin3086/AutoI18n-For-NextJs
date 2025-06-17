@@ -21,7 +21,7 @@ The current version of AutoI18n For NextJs integrates **next-intl** as the basic
 
 ## Installation
 
-Download the latest version from the [Download](https://autoi18n.dev/download) page, then there's software installation and use.
+Download the latest version from the [Download](https://github.com/kamjin3086/AutoI18n-For-NextJs-Desktop) page, then there's software installation and use.
 
 ## Usage
 
